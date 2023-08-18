@@ -33,3 +33,6 @@ You can adjust the following parameters in the code to customize the game:
 5. Run the compiled program with: `java CherryNumberGuessingGame`
 
 # Demo
+
+https://github.com/Madalacharitavya/OIBSIP-Task2/assets/102969979/7ed85170-8fd6-47c6-9a43-19d6f8178918
+
