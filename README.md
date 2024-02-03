@@ -36,3 +36,10 @@ You can adjust the following parameters in the code to customize the game:
 
 https://github.com/Madalacharitavya/OIBSIP-Task2/assets/102969979/7ed85170-8fd6-47c6-9a43-19d6f8178918
 
+## Contributing
+
+Contributions are welcome! Feel free to open issues or pull requests.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
